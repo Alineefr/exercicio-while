@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class exercicio01 {
     public static void main(String[] args) {
         /*1. Utilizando (While), construir um programa que apresente a soma dos cem 
-primeiros números naturais (1 + 2 + 3 +...+ 98 + 99 + 100). */
+        primeiros números naturais (1 + 2 + 3 +...+ 98 + 99 + 100). */
 
         int contador = 1;
         int soma = 0;
